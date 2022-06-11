@@ -1,3 +1,7 @@
+GitHub Pages Test
+=================
+:doctype: article
+:title: GitHub Pages Test
 :docinfo: shared
 :data-uri:
 :toc: left
@@ -20,8 +24,6 @@ ifdef::env-github[]
 endif::[]
 
 toc::[]
-
-//= GitHub Pages Test
 
 
 == Introduction
