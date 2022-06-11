@@ -82,6 +82,7 @@ pre {
 	word-wrap: break-word;
 	white-space: pre-wrap;
     border: 1px dotted black;
+    border-left: 3px solid #336699;
 }
 
 table {
