@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-Just some things.
+# Who Am I
+Just someone
