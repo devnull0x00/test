@@ -6,6 +6,7 @@ github_username: devnull00xx
 
 markdown: kramdown
 remote_theme: pages-themes/modernist@v0.2.0
+theme: modernist
 plugins:
   - jekyll-remote-theme
 
