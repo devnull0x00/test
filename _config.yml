@@ -1,0 +1,8 @@
+title: Dumb Test
+author: Someone
+email: someone@nowhere.com
+description: Something
+github_username: cpolizzi
+
+markdown: kramdown
+theme: minima
