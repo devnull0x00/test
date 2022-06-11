@@ -1,3 +1,25 @@
+:doctype: book
+:listing-caption: Listing
+:toc: macro
+:toclevels: 4
+:sectnumlevels: 6
+:numbered:
+:chapter-label:
+:icons: font
+:source-highlighter: rouge
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+toc::[]
+
+= GitHub Pages Test
+
 == Introduction
 
 Brief introduction.
