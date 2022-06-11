@@ -5,4 +5,4 @@ description: Something
 github_username: cpolizzi
 
 markdown: kramdown
-theme: minima
+theme: modernist
