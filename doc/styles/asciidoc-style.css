@@ -56,6 +56,10 @@ h1 {
 	color: white;
 }
 
+h2 *, h3 *, h4 *, h5 *, h6 * {
+    color: black;
+}
+
 #toc a:hover {
 	background-color: maroon;
 }
@@ -73,10 +77,11 @@ h1 {
 }
 
 pre {
-	background-color: #f7f7f8;
+	background-color: #eeeeee !important;
 	padding: 1em;
 	word-wrap: break-word;
 	white-space: pre-wrap;
+    border: 1px dotted black;
 }
 
 table {
