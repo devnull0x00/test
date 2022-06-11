@@ -14,7 +14,7 @@ plugins:
 #theme: jekyll-theme-minimal
 
 #remote_theme: pages-themes/modernist@v0.2.0
-theme: jekyll-theme-modernist
+theme: jekyll-theme-time-machine
 
 #remote_theme: pages-themes/cayman@v0.2.0
 #theme: jekyll-theme-cayman
