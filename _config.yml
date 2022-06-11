@@ -14,11 +14,10 @@ plugins:
 #theme: jekyll-theme-minimal
 
 #remote_theme: pages-themes/modernist@v0.2.0
-#theme: modernist
+theme: jekyll-theme-modernist
 
 #remote_theme: pages-themes/cayman@v0.2.0
-#theme: cayman
+#theme: jekyll-theme-cayman
 
-remote_theme: pages-themes/architect@v0.2.0
-
-theme: jekyll-theme-architect
+#remote_theme: pages-themes/architect@v0.2.0
+#theme: jekyll-theme-architect
