@@ -1,12 +1,15 @@
-:doctype: book
-:listing-caption: Listing
-:toc: macro
+:docinfo: shared
+:data-uri:
+:toc: left
 :toclevels: 4
-:sectnumlevels: 6
-:numbered:
+:sectanchors:
+:sectlinks:
+:sectnums:
 :chapter-label:
+:listing-caption: Listing
 :icons: font
 :source-highlighter: rouge
+:stylesheet: asciidoc-style.css
 
 ifdef::env-github[]
 :tip-caption: :bulb:
@@ -18,7 +21,8 @@ endif::[]
 
 toc::[]
 
-= GitHub Pages Test
+//= GitHub Pages Test
+
 
 == Introduction
 
