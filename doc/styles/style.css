@@ -24,3 +24,8 @@ pre code {
 #toc a:hover {
     background-color: white;
 }
+
+#toctitle {
+    background-color: #3c6eb4;
+    color: white;
+}
