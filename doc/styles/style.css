@@ -99,3 +99,12 @@ th {
 	text-align: left;
 }
 
+#author {
+    background-color: #ee332a;
+    color: white;
+}
+
+#email * {
+    background-color: #ee332a;
+    color: white;
+}

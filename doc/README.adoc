@@ -2,18 +2,20 @@ GitHub Pages Test
 =================
 :doctype: article
 :title: GitHub Pages Test
+:author: Christian J. Polizzi
+:email: christian.polizzi@redhat.com
+:last-update-label: Last Updated:
 :docinfo: shared
 :data-uri:
 :toc: left
 :toclevels: 4
 :sectanchors:
-:sectlinks:
 :sectnums:
 :chapter-label:
 :listing-caption: Listing
 :icons: font
 :source-highlighter: rouge
-:stylesheet: asciidoc-style.css
+:stylesheet: style.css
 :stylesdir: styles
 
 ifdef::env-github[]
