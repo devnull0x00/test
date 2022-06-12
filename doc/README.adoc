@@ -1,3 +1,31 @@
+////
+Reference to incorporate GIT metadata:
+
+* https://github.com/asciidoctor/asciidoctor-extensions-lab/blob/main/lib/git-metadata-preprocessor/sample.adoc
+
+To this the ruby gem `rugged` *MUST* be installed:
+[source,bash]
+----
+sudo apt install -y ruby-ruggged
+----
+
+Then we can do somthing like this:
+[source,asciidoc]
+----
+:revnumber: {git-metadata-branch}-{git-metadata-sha-short}
+----
+
+And finally:
+[source,bash]
+----
+git submodule init
+git submodule add -- https://github.com/asciidoctor/asciidoctor-extensions-lab.git
+asciidoctor doc/README.adoc -r ./asciidoctor-extendions-lab/lib/git-metadata-preprocessor.rb
+----
+
+////
+
+
 GitHub Pages Test
 =================
 :doctype: article
@@ -5,6 +33,8 @@ GitHub Pages Test
 :author: Christian J. Polizzi
 :email: christian.polizzi@redhat.com
 :last-update-label: Last Updated:
+:version-label: Revision
+:revnumber: 1.0
 :docinfo: shared
 :data-uri:
 :toc: left
