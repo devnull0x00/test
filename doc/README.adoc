@@ -26,12 +26,12 @@ asciidoctor doc/README.adoc -r ./asciidoctor-extendions-lab/lib/git-metadata-pre
 ////
 
 
-GitHub Pages Test
-=================
+{title}
+=======
 :doctype: article
 :title: GitHub Pages Test
-:author: Christian J. Polizzi
-:email: christian.polizzi@redhat.com
+:author: Someone
+:email: someone@somewhere.local
 :last-update-label: Last Updated:
 :version-label: Revision
 :revnumber: 1.0
